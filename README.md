@@ -1,17 +1,22 @@
-📚 Library Management System – Python 
+📚 Library Management System (Python – CLI)
 
-A menu-driven Python CLI application for managing personal book collections.
-Users can add, view, search, delete, and save books, get reading summaries, and see book titles in uppercase.
+A simple and efficient Command Line Interface (CLI) based Library Management System built using Python.
+This project allows users to manage their personal book collection by adding, viewing, searching, deleting, and saving books.
 
-🚀 Features :
+✨ Features
 
- - Add books with details: title, author, genre, year, and status (read/unread)
- - List all books or sort by publication year
- - Search books by author name
- - Delete books by title
- - Show reading summary with read/unread percentages
- - Display all book titles in uppercase
- - Save library to a CSV-style text file
- - Load library from a file
- - Fully menu-driven interface until user chooses Exit
- - Error handling for invalid inputs (e.g., year, status)
+- Add new books with title, author, genre, year, and status
+- View all books in a clean list format
+- Sort books by publication year
+- Search books by author name
+- Delete books by title
+- View reading progress summary (read/unread statistics)
+- Display book titles in uppercase
+- Save and load books from a text file
+
+🛠 Technologies Used
+
+- Python 3
+- File Handling
+- Lists and Dictionaries
+- OS Module
